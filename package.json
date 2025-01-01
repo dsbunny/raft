@@ -1,9 +1,9 @@
 {
 	"name": "raft",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Raft consensus algorithm implementation",
 	"type": "module",
-	"main": "raft.mjs",
+	"main": "raft.js",
 	"types": "raft.d.ts",
 	"author": "Steve-o <fnjordy@gmail.com>",
 	"license": "MIT",
