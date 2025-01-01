@@ -1,0 +1,17 @@
+{
+	"name": "raft",
+	"version": "1.0.1",
+	"description": "Raft consensus algorithm implementation",
+	"type": "module",
+	"main": "raft.mjs",
+	"types": "raft.d.ts",
+	"author": "Steve-o <fnjordy@gmail.com>",
+	"license": "MIT",
+	"private": false,
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {
+		"@msgpack/msgpack": "^2.8.0"
+	}
+}
